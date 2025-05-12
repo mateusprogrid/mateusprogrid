@@ -1,25 +1,74 @@
-<h1 align="center">Hello!👋 I'm Mateus Melo </h1>
-<h3 align="center">I am a Systems Analysis and Development student and founder of a company in the E-commerce segment, working strategically and technically in marketplaces such as Mercado Livre, Shopee, Amazon, among others.</h3>
+# 👋 Hello, I'm Mateus Melo
 
+**`I am a Systems Analysis and Development student`**
+
+I´m founder of a company in the E-commerce segment, working strategically and technically in marketplaces such as Mercado Livre, Shopee, Amazon, among others.
+
+### 👨‍💻 Languages, Skills and Tools
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<br/>
+<br/>
+
+## 📲 Contact me
+
+  <a href = "mailto:mateusmelo.info@gmail.com">
+    <img 
+    alt="Gmail"
+    title="Contate-me por e-mail"
+    src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
+      />
+  </a>
+    <a href="https://www.linkedin.com/in/mateus-melo-746818364" target="_blank">
+    <img 
+      alt="Linkedin"
+      title="Veja meu perfil no Linkedin"
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+      />
+  </a> 
+
+## 📊 Statistics
+  
 <div align="center">
-  <a href="https://github.com/Mateusmelo-C">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusmelo-c&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmelo-c&layout=compact&langs_count=7&theme=dark"/>
-  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusmelo-c&theme=dark" alt="mateusmelo-c" /></p>
-</div>
-
-<div style="display: flex">
-  <div style="justify-content: space around">
-    <h3 align="left">Contact me</h3>
-    <p align="left">
-    <a href="https://www.linkedin.com/in/mateus-melo-746818364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateus melo" height="30" width="40" /></a>
-  </div>
-
-<div style="display: inline_block"><br>
-  <div style="justify-content: space around">
-    <h3 align="left">Languages, Skills and Tools</h3>
-    <p align="left">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Mateusmelo-c&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+<img 
+      alt="GitHub Stats" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusmelo-C&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </div>
