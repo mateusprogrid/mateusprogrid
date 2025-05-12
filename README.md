@@ -43,7 +43,7 @@ I´m founder of a company in the E-commerce segment, working strategically and t
 
 ## 📲 Contact me
 
-  <a href = "https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSHwCwSjVRqNBlvPBvBdtWGQGsLVFDzvMdRKnWXxlpWqpXMWKPvJNlJwNfdZgDGgMDprVBrP">
+  <a href = "malito:mateusmelo.info@gmail.com">
     <img 
     alt="Gmail"
     title="Contate-me por e-mail: mateusmelo.info@gmail.com"
