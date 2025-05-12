@@ -1,5 +1,5 @@
-<h1 align="center">Olá!👋 Eu sou o Mateus Melo </h1>
-<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas e fundador de uma empresa no segmento de E-commerce, atuando de forma estratégica e técnica em marketplaces como Mercado Livre, Shopee, Amazon, entre outros.</h3>
+<h1 align="center">Hello!👋 I'm Mateus Melo </h1>
+<h3 align="center">I am a Systems Analysis and Development student and founder of a company in the E-commerce segment, working strategically and technically in marketplaces such as Mercado Livre, Shopee, Amazon, among others.</h3>
 
 <div align="center">
   <a href="https://github.com/Mateusmelo-C">
@@ -10,14 +10,14 @@
 
 <div style="display: flex">
   <div style="justify-content: space around">
-    <h3 align="left">Contato</h3>
+    <h3 align="left">Contact me</h3>
     <p align="left">
     <a href="https://www.linkedin.com/in/mateus-melo-746818364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateus melo" height="30" width="40" /></a>
   </div>
 
 <div style="display: inline_block"><br>
   <div style="justify-content: space around">
-    <h3 align="left">Linguagens e Ferramentas</h3>
+    <h3 align="left">Languages, Skills and Tools</h3>
     <p align="left">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
