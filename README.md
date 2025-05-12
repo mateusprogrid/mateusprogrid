@@ -46,7 +46,7 @@ I´m founder of a company in the E-commerce segment, working strategically and t
   <a href = "https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSHwCwSjVRqNBlvPBvBdtWGQGsLVFDzvMdRKnWXxlpWqpXMWKPvJNlJwNfdZgDGgMDprVBrP">
     <img 
     alt="Gmail"
-    title="Contate-me por e-mail"
+    title="Contate-me por e-mail: mateusmelo.info@gmail.com"
     src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
       />
   </a>
