@@ -8,12 +8,43 @@ I have hands-on experience developing technology solutions for real-world busine
 ## 📑 A little more about me...  
 
 ```javascript
-const mateus = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-}
+const mateusMelo = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "JavaScript", "Python", "Java", "C#", "C++", "Kotlin"],
+    askMeAbout: ["web dev", "mobile dev", "DevOps", "cloud", "automations", "tech trends", "system analysis"],
+    technologies: {
+        frontEnd: {
+            languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
+            frameworks: ["React", "Next.js", "Angular", "Vue"],
+            mobile: ["React Native", "Flutter"],
+            uiLibraries: ["TailwindCSS"],
+        },
+        backEnd: {
+            js: ["Node.js", "NestJS"],
+            python: ["Flask", "FastAPI"],
+            java: ["Spring Boot"],
+            csharp: ["ASP.NET Core"],
+        },
+        devOps: ["Docker", "GitHub Actions", "CI/CD", "Kubernetes"],
+        cloudServices: {
+            aws: ["EC2", "S3", "Lambda", "RDS"],
+            gcp: ["Firebase", "Cloud Functions"],
+            azure: ["App Services", "Azure Boards"],
+        },
+        databases: ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"],
+        misc: ["REST APIs", "GraphQL", "Socket.IO", "Microservices", "Service Mesh"],
+        automation: ["APIs", "n8n", "ERP/CRM integrations"],
+        ai_ml: ["MLflow", "Machine Learning basics"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["monolithic", "microservices", "serverless"],
+        devOps: ["Containers", "CI/CD Pipelines", "Cloud-native"],
+        databases: ["Relational", "NoSQL"],
+    },
+    currentFocus: "Gaining experience in real-world projects and cloud-based systems",
+    funFact: "Founder of an e-commerce, automating everything from NF-e to atendimento com IA 🤖",
+};
 ```
 
 ### 👨‍💻 Languages, Skills and Tools
