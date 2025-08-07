@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://i.ibb.co/sng7RYM/Hello-World.gif" alt="Hello-World" border="0"></a>
 
 # 👋 Hello, I'm Mateus Melo
 
