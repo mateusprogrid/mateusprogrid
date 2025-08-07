@@ -1,12 +1,17 @@
-# 👋 Hello, I'm Mateus Melo
+### Hello, I'm Mateus Melo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 **`I am a Systems Analysis and Development student`**
 
 I have hands-on experience developing technology solutions for real-world businesses, primarily working with API integrations, intelligent automation, and ERP systems. I'm currently focused on becoming a software developer, applying my technical and strategic skills to deliver efficient and scalable solutions.
 
-### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="70" height="70"> 
-## 📑 A little more about me...  
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"></p>
 
+### 📑 A Little More About Me... <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
+    
 ```javascript
 const mateusMelo = {
     pronouns: "He" | "Him";
@@ -44,10 +49,28 @@ const mateusMelo = {
     };
 }
 ```
-## <img height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 
-### 👨‍💻 Languages, Skills and Tools
+<img height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
 
+### 📊 Statistics <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+
+<p align="center">
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="120" height="120"></p>
+    
+  <br />
+  <p align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateusmelo-C&icons=true&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusmelo-C&icons=true&theme=radical&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+  ![](https://github-profile-trophy.vercel.app/?username=Mateusmelo-C&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+  <br />
+
+  ### 👨‍💻 Languages, Skills and Tools <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img 
     align="left" 
     alt="HTML"
@@ -81,35 +104,4 @@ const mateusMelo = {
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br/>
-<br/>
-
-## 📲 Contact me
-
-  <a href = "mailto:mateusmelo.info@gmail.com">
-    <img 
-    alt="Gmail"
-    title="Contate-me por e-mail: mateusmelo.info@gmail.com"
-    src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
-      />
-  </a>
-    <a href="https://www.linkedin.com/in/mateus-melo-746818364" target="_blank">
-    <img 
-      alt="Linkedin"
-      title="Veja meu perfil no Linkedin"
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
-      />
-  </a> 
-
-## 📊 Statistics
-
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/Mateusmelo-C/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Mateusmelo-C/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-</details>
