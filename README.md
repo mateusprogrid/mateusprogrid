@@ -4,7 +4,8 @@
 
 I have hands-on experience developing technology solutions for real-world businesses, primarily working with API integrations, intelligent automation, and ERP systems. I'm currently focused on becoming a software developer, applying my technical and strategic skills to deliver efficient and scalable solutions.
 
-### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30" height="40"> A little more about me...  
+### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" height="50"> 
+A little more about me...  
 
 ```javascript
 const mateus = {
