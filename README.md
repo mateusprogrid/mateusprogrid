@@ -40,7 +40,7 @@ const mateusMelo = {
         misc: ["REST APIs", "GraphQL", "Microservices", "Service Mesh"];
         automation: ["APIs", "n8n", "ERP/CRM integrations"],
         ai_ml: ["MLflow", "Machine Learning basics"];
-    },
+    };
 }
 ```
 <p align="center">
