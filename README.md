@@ -44,7 +44,7 @@ const mateusMelo = {
     };
 }
 ```
-## <img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
+## <img height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
 
 ### 👨‍💻 Languages, Skills and Tools
 
