@@ -9,40 +9,40 @@ I have hands-on experience developing technology solutions for real-world busine
 
 ```javascript
 const mateusMelo = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "JavaScript", "Python", "Java", "C#", "C++", "Kotlin"],
-    askMeAbout: ["web dev", "mobile dev", "DevOps", "cloud", "automations", "tech trends", "system analysis"],
+    pronouns: "He" | "Him";
+    code: ["TypeScript", "JavaScript", "Python", "Java", "C#", "C++", "Kotlin"];
+    askMeAbout: ["web dev", "mobile dev", "DevOps", "cloud", "automations", "tech trends", "system analysis"];
     technologies: {
         frontEnd: {
-            languages: ["HTML", "CSS", "JavaScript", "TypeScript"],
-            frameworks: ["React", "Next.js", "Angular", "Vue"],
-            mobile: ["React Native", "Flutter"],
-            uiLibraries: ["TailwindCSS"],
+            languages: ["HTML", "CSS", "JavaScript", "TypeScript"];
+            frameworks: ["React", "Next.js", "Angular", "Vue"];
+            mobile: ["React Native", "Flutter"];
+            uiLibraries: ["TailwindCSS"];
         },
         backEnd: {
-            js: ["Node.js", "NestJS"],
-            python: ["Flask", "FastAPI"],
-            java: ["Spring Boot"],
-            csharp: ["ASP.NET Core"],
+            js: ["Node.js", "NestJS"];
+            python: ["Flask", "FastAPI"];
+            java: ["Spring Boot"];
+            csharp: ["ASP.NET Core"];
         },
-        devOps: ["Docker", "GitHub Actions", "CI/CD", "Kubernetes"],
+        devOps: ["Docker", "GitHub Actions", "CI/CD", "Kubernetes"];
         cloudServices: {
-            aws: ["EC2", "S3", "Lambda", "RDS"],
-            gcp: ["Firebase", "Cloud Functions"],
-            azure: ["App Services", "Azure Boards"],
+            aws: ["EC2", "S3", "Lambda", "RDS"];
+            gcp: ["Firebase", "Cloud Functions"];
+            azure: ["App Services", "Azure Boards"];
         },
-        databases: ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"],
-        misc: ["REST APIs", "GraphQL", "Socket.IO", "Microservices", "Service Mesh"],
+        databases: ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"];
+        misc: ["REST APIs", "GraphQL", "Socket.IO", "Microservices", "Service Mesh"];
         automation: ["APIs", "n8n", "ERP/CRM integrations"],
-        ai_ml: ["MLflow", "Machine Learning basics"],
+        ai_ml: ["MLflow", "Machine Learning basics"];
     },
     architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["monolithic", "microservices", "serverless"],
-        devOps: ["Containers", "CI/CD Pipelines", "Cloud-native"],
-        databases: ["Relational", "NoSQL"],
-    },
-};
+        frontEnd: ["SPA", "SSR"];
+        backEnd: ["monolithic", "microservices", "serverless"];
+        devOps: ["Containers", "CI/CD Pipelines", "Cloud-native"];
+        databases: ["Relational", "NoSQL"];
+    };
+}
 ```
 
 ### 👨‍💻 Languages, Skills and Tools
