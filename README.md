@@ -16,7 +16,7 @@ I have hands-on experience developing technology solutions for real-world busine
 const mateusMelo = {
     pronouns: "He" | "Him";
     code: ["TypeScript", "JavaScript", "Python", "Java", "C#", "C++", "Kotlin"];
-    askMeAbout: ["web dev", "mobile dev", "DevOps", "cloud", "automations", "tech trends", "system analysis"];
+    askMeAbout: ["web dev", "mobile dev", "DevOps", "cloud", "automations", "full-stack", "system analysis"];
     technologies: {
         frontEnd: {
             languages: ["HTML", "CSS", "JavaScript", "TypeScript"];
@@ -30,23 +30,17 @@ const mateusMelo = {
             java: ["Spring Boot"];
             csharp: ["ASP.NET Core"];
         },
-        devOps: ["Docker", "GitHub Actions", "CI/CD", "Kubernetes"];
+        devOps: ["Docker", "CI/CD", "Kubernetes"];
         cloudServices: {
             aws: ["EC2", "S3", "Lambda", "RDS"];
             gcp: ["Firebase", "Cloud Functions"];
             azure: ["App Services", "Azure Boards"];
         },
-        databases: ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"];
-        misc: ["REST APIs", "GraphQL", "Socket.IO", "Microservices", "Service Mesh"];
+        databases: ["PostgreSQL", "MySQL", "SQL Server", "NoSQL(MongoDB)"];
+        misc: ["REST APIs", "GraphQL", "Microservices", "Service Mesh"];
         automation: ["APIs", "n8n", "ERP/CRM integrations"],
         ai_ml: ["MLflow", "Machine Learning basics"];
     },
-    architecture: {
-        frontEnd: ["SPA", "SSR"];
-        backEnd: ["monolithic", "microservices", "serverless"];
-        devOps: ["Containers", "CI/CD Pipelines", "Cloud-native"];
-        databases: ["Relational", "NoSQL"];
-    };
 }
 ```
 <p align="center">
