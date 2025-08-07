@@ -2,7 +2,7 @@
 
 **`I am a Systems Analysis and Development student`**
 
-I´m founder of a company in the E-commerce segment, working strategically and technically in marketplaces such as Mercado Livre, Shopee, Amazon, among others.
+I have hands-on experience developing technology solutions for real-world businesses, primarily working with API integrations, intelligent automation, and ERP systems. I'm currently focused on becoming a software developer, applying my technical and strategic skills to deliver efficient and scalable solutions.
 
 ### 👨‍💻 Languages, Skills and Tools
 
