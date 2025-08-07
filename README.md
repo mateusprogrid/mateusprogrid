@@ -1,4 +1,4 @@
-### Hello, I'm Mateus Melo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+### Hello, I'm Mateus Melo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 **`I am a Systems Analysis and Development student`**
 
