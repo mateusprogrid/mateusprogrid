@@ -42,8 +42,6 @@ const mateusMelo = {
         devOps: ["Containers", "CI/CD Pipelines", "Cloud-native"],
         databases: ["Relational", "NoSQL"],
     },
-    currentFocus: "Gaining experience in real-world projects and cloud-based systems",
-    funFact: "Founder of an e-commerce, automating everything from NF-e to atendimento com IA 🤖",
 };
 ```
 
