@@ -15,17 +15,15 @@ I have hands-on experience developing technology solutions for real-world busine
 ```javascript
 const mateusMelo = {
     pronouns: "He" | "Him";
-    code: ["TypeScript", "JavaScript", "Python", "Java", "C#", "C++", "Kotlin"];
+    code: ["TypeScript", "JavaScript", "Python", "Java", "C#", "C++"];
     askMeAbout: ["web dev", "mobile dev", "DevOps", "cloud", "automations", "full-stack", "system analysis"];
     technologies: {
         frontEnd: {
             languages: ["HTML", "CSS", "JavaScript", "TypeScript"];
-            frameworks: ["React", "Next.js", "Angular", "Vue"];
-            mobile: ["React Native", "Flutter"];
+            frameworks: ["React", "Next.js", "Angular"];
             uiLibraries: ["TailwindCSS"];
         },
         backEnd: {
-            js: ["Node.js", "NestJS"];
             python: ["Flask", "FastAPI"];
             java: ["Spring Boot"];
             csharp: ["ASP.NET Core"];
@@ -159,14 +157,6 @@ const mateusMelo = {
 />
 <img 
     align="left" 
-    alt="Flutter" 
-    title="Flutter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Tailwind CSS" 
     title="Tailwind CSS"
     width="30px" 
@@ -183,35 +173,11 @@ const mateusMelo = {
 />
 <img 
     align="left" 
-    alt="Vue" 
-    title="Vue"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Angular" 
     title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NestJS" 
-    title="NestJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
 />
 <img 
     align="left" 
@@ -236,14 +202,6 @@ const mateusMelo = {
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 <img 
     align="left" 
