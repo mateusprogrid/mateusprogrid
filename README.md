@@ -245,8 +245,8 @@ const mateusMelo = {
 />
 <img 
     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
+    alt="SQL Server" 
+    title="SQL Server"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
