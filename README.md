@@ -205,20 +205,21 @@ const mateusMelo = {
 />
 <img 
     align="left" 
-    alt="Docker" 
-    title="Docker"
+    alt="NodeJS" 
+    title="NodeJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
-    alt="Kubernetes" 
-    title="Kubernetes"
+    alt="MongoDB" 
+    title="MongoDB"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="Azure" 
@@ -227,6 +228,7 @@ const mateusMelo = {
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
+-->
 <img 
     align="left" 
     alt="MySQL" 
@@ -253,11 +255,19 @@ const mateusMelo = {
 />
 <img 
     align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kubernetes" 
+    title="Kubernetes"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
 />
 <!--
 <img 
