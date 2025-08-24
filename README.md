@@ -24,9 +24,7 @@ const mateusMelo = {
             uiLibraries: ["TailwindCSS"];
         },
         backEnd: {
-            python: ["Flask", "FastAPI"];
-            java: ["Spring Boot"];
-            csharp: ["ASP.NET Core"];
+            languages: ["Python", "Java", "C Sharp (C#)"];
         },
         devOps: ["Docker", "CI/CD", "Kubernetes"];
         cloudServices: {
@@ -34,8 +32,8 @@ const mateusMelo = {
             gcp: ["Firebase", "Cloud Functions"];
             azure: ["App Services", "Azure Boards"];
         },
-        databases: ["PostgreSQL", "MySQL", "SQL Server", "NoSQL(MongoDB)"];
-        misc: ["REST APIs", "GraphQL", "Microservices", "Service Mesh"];
+        databases: ["PostgreSQL", "MySQL", "NoSQL(MongoDB)"];
+        misc: ["REST APIs"];
         automation: ["APIs", "n8n", "ERP/CRM integrations"],
         ai_ml: ["MLflow", "Machine Learning basics"];
     };
@@ -179,6 +177,7 @@ const mateusMelo = {
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="FastAPI" 
@@ -195,6 +194,7 @@ const mateusMelo = {
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
+-->
 <img 
     align="left" 
     alt="Next.js" 
@@ -238,7 +238,7 @@ const mateusMelo = {
 <img 
     align="left" 
     alt="PostgreSQL" 
-    title="PstgreSQL"
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
@@ -259,6 +259,7 @@ const mateusMelo = {
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="GraphQL" 
@@ -291,3 +292,4 @@ const mateusMelo = {
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+-->
