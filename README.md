@@ -7,7 +7,7 @@ I have hands-on experience developing technology solutions and automation. I'm c
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"></p>
 
-### 📑 A Little More About Me... <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
+### 📑 A little more about me... <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
