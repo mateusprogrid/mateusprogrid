@@ -2,7 +2,7 @@
 
 **`I am a Systems Analysis and Development student`**
 
-I have hands-on experience developing technology solutions for real-world businesses, primarily working with API integrations, intelligent automation, and ERP systems. I'm currently focused on becoming a software developer, applying my technical and strategic skills to deliver efficient and scalable solutions.
+I have hands-on experience developing technology solutions and automation. I'm currently focused on becoming a software developer and analyst, applying my technical and strategic skills to deliver efficient and scalable solutions.
 
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"></p>
