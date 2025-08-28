@@ -26,12 +26,6 @@ const mateusMelo = {
         backEnd: {
             languages: ["Python", "Java", "C Sharp (C#)"];
         },
-        devOps: ["Docker", "CI/CD", "Kubernetes"];
-        cloudServices: {
-            aws: ["EC2", "S3", "Lambda", "RDS"];
-            gcp: ["Firebase", "Cloud Functions"];
-            azure: ["App Services", "Azure Boards"];
-        },
         databases: ["PostgreSQL", "MySQL", "NoSQL(MongoDB)"];
         misc: ["REST APIs"];
         automation: ["APIs", "n8n", "ERP/CRM integrations"],
