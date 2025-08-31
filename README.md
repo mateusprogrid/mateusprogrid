@@ -17,7 +17,7 @@ const mateusMelo = {
     pronouns: "He" | "Him";
     code: ["TypeScript", "JavaScript", "Python", "Java"];
     askMeAbout: ["web dev", "mobile dev", "DevOps", "cloud", "automations",
-"full-stack", "system analysis and developer"];
+    "full-stack", "system analysis and developer"];
     technologies: {
         frontEnd: {
             languages: ["HTML", "CSS", "JavaScript", "TypeScript"];
