@@ -15,8 +15,9 @@ I have hands-on experience developing technology solutions and automation. I'm c
 ```javascript
 const mateusMelo = {
     pronouns: "He" | "Him";
-    code: ["TypeScript", "JavaScript", "Python", "Java", "C#", "C++"];
-    askMeAbout: ["web dev", "mobile dev", "DevOps", "cloud", "automations", "full-stack", "system analysis"];
+    code: ["TypeScript", "JavaScript", "Python", "Java"];
+    askMeAbout: ["web dev", "mobile dev", "DevOps", "cloud", "automations", "full-stack",
+"system analysis and developer"];
     technologies: {
         frontEnd: {
             languages: ["HTML", "CSS", "JavaScript", "TypeScript"];
@@ -24,10 +25,10 @@ const mateusMelo = {
             uiLibraries: ["TailwindCSS"];
         },
         backEnd: {
-            languages: ["Python", "Java", "C Sharp (C#)"];
+            languages: ["Python", "Java", "TypeScript"];
+            frameworks: ["Next.js", "NodeJS"];
         },
         databases: ["PostgreSQL", "MySQL", "NoSQL(MongoDB)"];
-        misc: ["REST APIs"];
         automation: ["APIs", "n8n", "ERP/CRM integrations"],
         ai_ml: ["MLflow", "Machine Learning basics"];
     };
