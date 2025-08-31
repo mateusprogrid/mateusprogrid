@@ -26,7 +26,7 @@ const mateusMelo = {
         },
         backEnd: {
             languages: ["Python", "Java", "TypeScript"];
-            frameworks: ["Next.js", "NodeJS"];
+            frameworks: ["Next.js", "NodeJS", "Spring Boot"];
         },
         databases: ["PostgreSQL", "MySQL", "NoSQL(MongoDB)"];
         automation: ["APIs", "n8n", "ERP/CRM integrations"],
