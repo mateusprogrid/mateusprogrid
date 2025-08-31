@@ -91,6 +91,7 @@ const mateusMelo = {
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="PHP" 
@@ -99,6 +100,7 @@ const mateusMelo = {
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+-->
 <img 
     align="left" 
     alt="Python" 
@@ -107,6 +109,7 @@ const mateusMelo = {
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="C++" 
@@ -123,6 +126,7 @@ const mateusMelo = {
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
+-->
 <img 
     align="left" 
     alt="Git" 
@@ -130,14 +134,6 @@ const mateusMelo = {
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitLab" 
-    title="GitLab"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" 
 />
 <img 
     align="left" 
@@ -239,6 +235,7 @@ const mateusMelo = {
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="SQL Server" 
@@ -263,7 +260,6 @@ const mateusMelo = {
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
 />
-<!--
 <img 
     align="left" 
     alt="GraphQL" 
