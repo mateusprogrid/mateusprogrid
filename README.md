@@ -26,7 +26,7 @@ const mateusMelo = {
         },
         backEnd: {
             languages: ["Python", "Java", "TypeScript"];
-            frameworks: ["Next.js", "NodeJS", "Spring Boot"];
+            frameworks: ["Next.js", "Node.js", "Spring Boot"];
         },
         databases: ["PostgreSQL", "MySQL", "NoSQL(MongoDB)"];
         automation: ["APIs", "n8n", "ERP/CRM integrations"],
@@ -196,8 +196,8 @@ const mateusMelo = {
 />
 <img 
     align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
