@@ -25,8 +25,8 @@ const mateusMelo = {
             uiLibraries: ["TailwindCSS"];
         },
         backEnd: {
-            languages: ["Python", "Java", "TypeScript"];
-            frameworks: ["Next.js", "Node.js", "Spring Boot"];
+            languages: ["JavaScript", "TypeScript", "Python", "Java"];
+            frameworks: ["Node.js", "NestJS", "Spring Boot"];
         },
         databases: ["PostgreSQL", "MySQL", "NoSQL(MongoDB)"];
         automation: ["APIs", "n8n", "ERP/CRM integrations"],
@@ -134,6 +134,14 @@ const mateusMelo = {
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
 <!--
 <img 
     align="left" 
@@ -188,19 +196,19 @@ const mateusMelo = {
 -->
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Node.js" 
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NestJS" 
+    title="NestJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
 />
 <img 
     align="left" 
