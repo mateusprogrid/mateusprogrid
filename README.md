@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Michroma&size=48&pause=1000&color=FFFFFF&background=174373&center=true&vCenter=true&width=1000&height=150&lines=Hey%2C+have+to+glad+you+here.;+I'm+Mateus+Melo!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Michroma&size=32&pause=1000&color=FFFFFF&background=174373&center=true&vCenter=true&width=1000&height=100&lines=Hey%2C+have+to+glad+you+here.;+I'm+Mateus+Melo!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 ---
 
@@ -94,11 +94,10 @@
 I have hands-on experience developing technology solutions, cybersecurity, systems analysis, and automation. :computer:💡. I'm currently studying Systems Analysis and Development. I also have excellent communication skills and a proactive approach. :muscle:</i>
 </div>
 
-<tr>
- 
-</tr>
+<br></br>
 
 <div align="center">
+ <p><strong>Contact me: </strong></p>
 <table>
 <tr>
  <td align="center" colspan="11"></td>
@@ -121,4 +120,5 @@ I have hands-on experience developing technology solutions, cybersecurity, syste
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
+ 
 ---
