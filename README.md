@@ -76,7 +76,7 @@
 <table>
 <!-- Coluna do GIF -->
 <td align="center">
-<img src="https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8" width="300" alt="Coding gif"/>
+<img src="https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8" width="290" alt="Coding gif"/>
 </td>
 </tr>
 </table>
