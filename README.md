@@ -181,5 +181,3 @@ I have hands-on experience developing technology solutions, cybersecurity, syste
 </table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
-
----
