@@ -122,3 +122,82 @@ I have hands-on experience developing technology solutions, cybersecurity, syste
 </table>
  
 ---
+
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mateusmelo-C&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusmelo-C&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusmelo-C&layout=pie&theme=dark&locale=pt-br"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mateusmelo-C&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mateusmelo-C&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateusmelo-C&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mateusmelo-C&theme=github_dark&utcOffset=8"/>
+</td>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateusmelo-C&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=Mateusmelo-C&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+ <td align="center"></td>
+</tr>
+<tr>
+
+</tr>
+<tr>
+ <td align="center"></td>
+</tr> 
+</table>
+
+</div>
+</div>
+
+<br></br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
+
+---
