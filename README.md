@@ -176,9 +176,9 @@ I have hands-on experience developing technology solutions, cybersecurity, syste
 
 <table>
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mateusmelo-C/Mateusmelo-C/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mateusmelo-C/Mateusmelo-C/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mateusmelo-C/Mateusmelo-C/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusprogrid/mateusprogrid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusprogrid/mateusprogrid/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusprogrid/mateusprogrid/output/github-contribution-grid-snake.svg">
 </picture> 
 </table>
 
