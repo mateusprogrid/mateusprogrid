@@ -74,6 +74,7 @@
 
 </td>
 
+<table>
 <!-- Coluna do GIF -->
 <td align="center">
 <img src="https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8" width="380" alt="Coding gif"/>
@@ -114,7 +115,7 @@
 
 </div>
 <div align="justify">
-<i><b>Hello</b>:wave:, My name is <code>Mateus Melo</code>, I'm 22 years old and I study <code>Systems Analysis and Development</code> at <a href="https://uscs.edu.br/" target="_blank">USCS</a>. :mortar_board:  
+<i><b>Hello</b> :wave:, My name is <code>Mateus Melo</code>, I'm 22 years old and I study <code>Systems Analysis and Development</code> at <a href="https://uscs.edu.br/" target="_blank">USCS</a>. :mortar_board:  
 I have hands-on experience developing technology solutions, cybersecurity, systems analysis, and automation. :computer:💡. I'm currently studying Systems Analysis and Development. I also have excellent communication skills and a proactive approach. :muscle:</i>
 </div>
 
