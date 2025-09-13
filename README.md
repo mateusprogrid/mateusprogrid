@@ -127,7 +127,7 @@ I have hands-on experience developing technology solutions, cybersecurity, syste
 
 <strong>GitHub Stats: </strong>
 <br></br>
-<img height="50" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>
+<img height="40" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>
 
 <div align="center">
 <table>
