@@ -91,7 +91,7 @@
 </div>
 <div align="justify">
 <i><b>Hello</b> :wave:, My name is <code>Mateus Melo</code>, I'm 22 years old, I'm currently a <code>Manufacturing Systems Intern</code> at <a href="https://www.colgatepalmolive.com.br/" target="_blank">Colgate-Palmolive</a> and I study <code>Systems Analysis and Development</code> at <a href="https://uscs.edu.br/" target="_blank">USCS</a>. :mortar_board:  
-I have hands-on experience developing technology solutions, cybersecurity, systems analysis, and automation. :computer:💡. I'm currently studying Systems Analysis and Development. I’m constantly seeking to bridge the gap between technology and industry through practical and scalable solutions. :muscle:</i>
+I have hands-on experience developing technology solutions, cybersecurity, systems analysis, and automation. :computer:💡. I’m constantly seeking to bridge the gap between technology and industry through practical and scalable solutions. :muscle:</i>
 </div>
 
 <br></br>
