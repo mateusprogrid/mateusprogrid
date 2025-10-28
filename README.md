@@ -175,10 +175,10 @@
 
 <table>
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusprogrid/mateusprogrid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusprogrid/mateusprogrid/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusprogrid/mateusprogrid/output/github-contribution-grid-snake.svg">
-</picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://mateusprogrid.github.io/mateusprogrid/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://mateusprogrid.github.io/mateusprogrid/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://mateusprogrid.github.io/mateusprogrid/github-contribution-grid-snake.svg" />
+</picture>
 </table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
