@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Code&weight=100&size=44&pause=1000&color=FFFFFF&background=2C2746&center=true&vCenter=true&width=1000&height=90&lines=Hey%2C+have+to+glad+you+here.;I'm+Mateus+Melo!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%98%81" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Code&weight=100&size=44&pause=1000&color=FFFFFF&background=2C2746&center=true&vCenter=true&width=1000&height=90&lines=Hey%2C+have+to+glad+you+here.;I'm+Mateus+Melo!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 ---
 
