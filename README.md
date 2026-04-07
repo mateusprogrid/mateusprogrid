@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1100&height=95&lines=Hey%2C+have+to+glad+you+here.;I'm+Mateus+Melo!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=37&duration=2700&pause=200&color=16E6FF&background=011356&center=true&vCenter=true&width=1000&height=100&lines=Hey%2C+have+to+glad+you+here.;I'm+Mateus+Melo!+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;My+Instagram+%40mateusprogrid;Follow+Me!+%F0%9F%93%B2" alt="Typing SVG" /></a>
 
 ---
 
@@ -90,7 +90,7 @@
 
 </div>
 <div align="justify">
-<i><b>Hello</b> :wave:, My name is <code>Mateus Melo</code>, I'm 22 years old, I'm currently a <code>Manufacturing Systems Intern</code> at <a href="https://www.colgatepalmolive.com.br/" target="_blank">Colgate-Palmolive</a> and I study <code>Systems Analysis and Development</code> at <a href="https://uscs.edu.br/" target="_blank">USCS</a>. :mortar_board: I have hands-on experience developing technology solutions, cybersecurity, systems analysis, and automation. :computer:💡. I’m constantly seeking to bridge the gap between technology and industry through practical and scalable solutions. :muscle:</i>
+<i><b>Hello</b> :wave:, My name is <code>Mateus Melo</code>, I'm 22 years old, I'm currently a <code>Manufacturing Systems Analyst</code> at <a href="https://www.colgatepalmolive.com.br/" target="_blank">Colgate-Palmolive</a> and I study <code>Systems Analysis and Development</code> at <a href="https://uscs.edu.br/" target="_blank">USCS</a>. :mortar_board: I have hands-on experience developing technology solutions, cybersecurity, systems analysis, and automation. :computer:💡. I’m constantly seeking to bridge the gap between technology and industry through practical and scalable solutions. :muscle:</i>
 </div>
 
 <br></br>
@@ -127,24 +127,6 @@
 <strong>GitHub Stats: </strong>
 <br></br>
 <img height="35" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Stats" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateusprogrid&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusprogrid&layout=pie&theme=dark&locale=pt-br"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
 <table>
 <tr>
  <td align="center" colspan="3"></td>
