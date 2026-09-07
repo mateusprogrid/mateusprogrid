@@ -89,37 +89,56 @@ I build applications, integrations, dashboards and intelligent automations that 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Mateus Melo GitHub Statistics
 
 <p align="center">
   <img
     width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateusprogrid&amp;theme=github_dark&amp;animation=load"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateusprogrid&amp;name=Mateus%20Melo&amp;theme=github_dark&amp;animation=sequence&amp;duration=3&amp;title_color=16E6FF&amp;text_color=FFFFFF&amp;bg_color=011356&amp;border_color=011356&amp;icon_color=16E6FF&amp;chart_color=4801FF"
     alt="Mateus Melo's GitHub profile details"
   />
 </p>
 
+### Mateus Melo GitHub Activity Overview
+
 <p align="center">
   <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateusprogrid&amp;theme=github_dark&amp;animation=load"
-    alt="Mateus Melo's GitHub statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateusprogrid&amp;theme=github_dark&amp;animation=load"
-    alt="Mateus Melo's repositories by language"
+    width="100%"
+    src="./assets/contribution-activity-overview.svg"
+    alt="Mateus Melo's activity overview for commits, code reviews, issues and pull requests"
   />
 </p>
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mateusprogrid&amp;theme=github_dark&amp;utcOffset=-3&amp;animation=load"
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateusprogrid&amp;theme=github_dark&amp;animation=sequence&amp;duration=3&amp;title_color=16E6FF&amp;text_color=FFFFFF&amp;bg_color=011356&amp;border_color=011356&amp;icon_color=16E6FF&amp;chart_color=4801FF"
+    alt="Mateus Melo's GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateusprogrid&amp;theme=github_dark&amp;animation=sequence&amp;duration=3&amp;title_color=16E6FF&amp;text_color=FFFFFF&amp;bg_color=011356&amp;border_color=011356&amp;icon_color=16E6FF&amp;chart_color=4801FF"
+    alt="Mateus Melo's top programming languages by repository"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=mateusprogrid&amp;layout=compact&amp;langs_count=8&amp;custom_title=Most%20Used%20Languages&amp;hide_border=true&amp;bg_color=011356&amp;title_color=16E6FF&amp;text_color=FFFFFF&amp;icon_color=4801FF"
+    alt="Mateus Melo's most used programming languages"
+  />
+</p>
+
+<p align="center">
+  <sub><b>Top Languages:</b> distribution by repositories · <b>Most Used Languages:</b> distribution by code volume</sub>
+</p>
+
+<p align="center">
+  <img
+    height="190"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mateusprogrid&amp;theme=github_dark&amp;utcOffset=-3&amp;animation=sequence&amp;duration=3&amp;title_color=16E6FF&amp;text_color=FFFFFF&amp;bg_color=011356&amp;border_color=011356&amp;icon_color=16E6FF&amp;chart_color=4801FF"
     alt="Mateus Melo's most productive commit time"
   />
   <img
-    width="49%"
+    height="190"
     src="https://streak-stats.demolab.com?user=mateusprogrid&amp;hide_border=true&amp;background=011356&amp;stroke=16E6FF&amp;ring=16E6FF&amp;fire=4801FF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=16E6FF&amp;sideLabels=16E6FF&amp;dates=94A3B8"
     alt="Mateus Melo's GitHub contribution streak"
   />
@@ -127,7 +146,7 @@ I build applications, integrations, dashboards and intelligent automations that 
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Mateus Melo GitHub Contribution Activity
 
 <p align="center">
   <picture>
