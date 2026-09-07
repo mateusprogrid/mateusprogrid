@@ -1,110 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mateus Melo GitHub Activity Overview</title>
+  <desc id="desc">Public contribution mix during the last twelve months: 143 commits, 0 code reviews, 0 issues and 0 pull requests.</desc>
+  <style>
+    :root { color-scheme: dark; }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .card { fill: #011356; stroke: #4801ff; stroke-opacity: .55; }
+    .heading { fill: #16e6ff; font-size: 19px; font-weight: 700; }
+    .subtitle, .metric-count { fill: #94a3b8; }
+    .subtitle { font-size: 12px; }
+    .grid { fill: none; stroke: #16e6ff; stroke-opacity: .16; }
+    .axis { stroke: #16e6ff; stroke-opacity: .32; stroke-dasharray: 205; animation: draw-axis 1.25s ease-out both; }
+    .area { fill: #16e6ff; fill-opacity: .20; stroke: #16e6ff; stroke-width: 2.5; transform-box: fill-box; transform-origin: center; animation: reveal-area 1.35s cubic-bezier(.2,.8,.2,1) both; }
+    .data-point { fill: #4801ff; stroke: #16e6ff; stroke-width: 2; opacity: 1; transform-box: fill-box; transform-origin: center; animation: show-point .4s ease-out 1.05s both; }
+    .metric { opacity: 1; animation: show-label .45s ease-out both; }
+    .metric-1 { animation-delay: .25s; }
+    .metric-2 { animation-delay: .4s; }
+    .metric-3 { animation-delay: .55s; }
+    .metric-4 { animation-delay: .7s; }
+    .metric-name { fill: #ffffff; font-size: 14px; font-weight: 600; }
+    .metric-value { fill: #16e6ff; font-size: 18px; font-weight: 700; }
+    .metric-count { font-size: 12px; font-weight: 500; }
+    @keyframes draw-axis { from { stroke-dashoffset: 205; } to { stroke-dashoffset: 0; } }
+    @keyframes reveal-area { from { opacity: 0; transform: scale(.08); } to { opacity: 1; transform: scale(1); } }
+    @keyframes show-point { from { opacity: 0; transform: scale(.25); } to { opacity: 1; transform: scale(1); } }
+    @keyframes show-label { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .axis, .area, .data-point, .metric { animation: none; opacity: 1; }
+    }
+  </style>
 
+  <rect class="card" x="1" y="1" width="898" height="358" rx="14" />
+  <text class="heading" x="450" y="31" text-anchor="middle">Mateus Melo GitHub Activity Overview</text>
+  <text class="subtitle" x="450" y="51" text-anchor="middle">Public contribution mix · last 12 months · updated daily</text>
 
+  <g aria-hidden="true">
+    <path class="grid" d="M450 186.25 L473.75 210 L450 233.75 L426.25 210 Z" />
+    <path class="grid" d="M450 162.5 L497.5 210 L450 257.5 L402.5 210 Z" />
+    <path class="grid" d="M450 138.75 L521.25 210 L450 281.25 L378.75 210 Z" />
+    <path class="grid" d="M450 115 L545 210 L450 305 L355 210 Z" />
+    <line class="axis" x1="450" y1="115" x2="450" y2="305" />
+    <line class="axis" x1="355" y1="210" x2="545" y2="210" />
+  </g>
 
+  <polygon class="area" points="450.0,210.0 450.0,210.0 450.0,210.0 355.0,210.0" />
+  <g aria-hidden="true"><circle class="data-point" cx="450.0" cy="210.0" r="5" /><circle class="data-point" cx="450.0" cy="210.0" r="5" /><circle class="data-point" cx="450.0" cy="210.0" r="5" /><circle class="data-point" cx="355.0" cy="210.0" r="5" /></g>
+  
+      <g class="metric metric-1" transform="translate(450 78)" text-anchor="middle">
+        <text class="metric-name">Code reviews</text>
+        <text class="metric-value" y="22">0% <tspan class="metric-count">· 0</tspan></text>
+      </g>
+      <g class="metric metric-2" transform="translate(735 195)" text-anchor="start">
+        <text class="metric-name">Issues</text>
+        <text class="metric-value" y="22">0% <tspan class="metric-count">· 0</tspan></text>
+      </g>
+      <g class="metric metric-3" transform="translate(450 326)" text-anchor="middle">
+        <text class="metric-name">Pull requests</text>
+        <text class="metric-value" y="22">0% <tspan class="metric-count">· 0</tspan></text>
+      </g>
+      <g class="metric metric-4" transform="translate(165 195)" text-anchor="end">
+        <text class="metric-name">Commits</text>
+        <text class="metric-value" y="22">100% <tspan class="metric-count">· 143</tspan></text>
+      </g>
 
-
-
-
-
-
-Fontes
-
-Manage visibility settings for private contributions and ...
-
-Profile reference - GitHub Enterprise Cloud Docs
-
-Contributions on your profile
-
-Ver tudo
-
-Entradas
-
-README.md
-
-image.png
-
-image.png
-
-image.png
-C:
-Users
-melo
-AppData
-Local
-Temp
-codex-file-preview-3vGiag
-README.md
-<p align="center">
-
-
-
-👨🏻‍💻 About Me
-
-<img
-  align="right"
-  width="290"
-  src="https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8"
-  alt="Animated illustration of software development"
-/>
-
-I'm a Junior Manufacturing Systems Analyst at Colgate-Palmolive, working at the intersection of software development, automation, data and industrial systems.
-
-I build applications, integrations, dashboards and intelligent automations that connect systems, reduce manual work and improve operational processes. I enjoy turning real challenges and new ideas into practical, scalable solutions.
-
-- 🔭 Working with software, automation, data and industrial systems
-- 🤖 Exploring LLMs, AI agents and RAG
-- 🎓 Studying Systems Analysis and Development at USCS — expected July 2027
-- ⚡ Turning ideas into practical solutions
-
-<br clear="right" />
-
-
-
-🧠 Skills & Technologies
-
-Languages
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs&amp;theme=dark&amp;perline=7" alt="JavaScript, TypeScript, Python, Java, C, C++ and C#" />
-  </a>
-</p>
-
-Web, Backend & Mobile
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,spring,tailwind,flask,django,dart,flutter&amp;theme=dark&amp;perline=10" alt="React, Next.js, Node.js, NestJS, Spring Boot, Tailwind CSS, Flask, Django, Dart and Flutter" />
-  </a>
-</p>
-
-Data, Automation & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-011356?style=for-the-badge&amp;logo=mysql&amp;logoColor=16E6FF" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL%20Server-011356?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=16E6FF" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Snowflake-011356?style=for-the-badge&amp;logo=snowflake&amp;logoColor=16E6FF" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/Pandas-011356?style=for-the-badge&amp;logo=pandas&amp;logoColor=16E6FF" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Selenium-011356?style=for-the-badge&amp;logo=selenium&amp;logoColor=16E6FF" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-011356?style=for-the-badge&amp;logo=googleappsscript&amp;logoColor=16E6FF" alt="Google Apps Script" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SAP-011356?style=for-the-badge&amp;logo=sap&amp;logoColor=16E6FF" alt="SAP" />
-  <img src="https://img.shields.io/badge/DOMO-011356?style=for-the-badge&amp;logoColor=16E6FF" alt="DOMO" />
-  <img src="https://img.shields.io/badge/Power%20BI-011356?style=for-the-badge&amp;logo=powerbi&amp;logoColor=16E6FF" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Armis-011356?style=for-the-badge&amp;logoColor=16E6FF" alt="Armis" />
-  <img src="https://img.shields.io/badge/AVEVA-011356?style=for-the-badge&amp;logoColor=16E6FF" alt="AVEVA" />
-  <img src="https://img.shields.io/badge/Git-011356?style=for-the-badge&amp;logo=git&amp;logoColor=16E6FF" alt="Git" />
-</p>
-
-
-
-📊 Mateus Melo GitHub Statistics
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateusprogrid&amp;name=Mateus%20Melo&amp;theme=github_dark&amp;animation=sequence&amp;duration=3&amp;title_color=16E6FF&amp;text_color=FFFFFF&amp;bg_color=011356&amp;border_color=011356&amp;icon_color=16E6FF&amp;chart_color=4801FF"
-    alt="Mateus Melo's GitHub profile details"
-  />
+  <text class="subtitle" x="878" y="340" text-anchor="end">143 public activities</text>
+</svg>
