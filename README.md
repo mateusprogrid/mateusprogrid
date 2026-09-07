@@ -42,7 +42,7 @@ I build applications, integrations, dashboards and intelligent automations that 
 
 - 🔭 Working with software, automation, data and industrial systems
 - 🤖 Exploring LLMs, AI agents and RAG
-- 🎓 Studying Systems Analysis and Development at USCS — expected July 2027
+- 🎓 Studying Systems Analysis and Development at USCS (expected July 2027)
 - ⚡ Turning ideas into practical solutions
 
 <br clear="right" />
