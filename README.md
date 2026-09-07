@@ -1,166 +1,154 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=37&duration=2700&pause=200&color=16E6FF&background=011356&center=true&vCenter=true&width=1000&height=100&lines=Hey%2C+have+to+glad+you+here.;I'm+Mateus+Melo!+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;My+Instagram+%40mateusprogrid;Follow+Me!+%F0%9F%93%B2" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Zen+Dots&amp;size=37&amp;duration=2700&amp;pause=1000&amp;color=16E6FF&amp;background=011356&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=100&amp;lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB+I%27m+Mateus+Melo.;Glad+to+have+you+here%21;My+Instagram+%40mateusmelo.__;Follow+me+there%21+%F0%9F%93%B2"
+      alt="Typing SVG introducing Mateus Melo"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://links.mateusmelo.workers.dev/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-011356?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=16E6FF" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mateus-melo-746818364/">
+    <img src="https://img.shields.io/badge/LINKEDIN-011356?style=for-the-badge&amp;logo=linkedin&amp;logoColor=16E6FF" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/mateusmelo.__/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-011356?style=for-the-badge&amp;logo=instagram&amp;logoColor=16E6FF" alt="Instagram" />
+  </a>
+  <a href="mailto:mateusmelo.info@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-011356?style=for-the-badge&amp;logo=gmail&amp;logoColor=16E6FF" alt="Email" />
+  </a>
+  <a href="https://wa.me/5511993646970">
+    <img src="https://img.shields.io/badge/WHATSAPP-011356?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=16E6FF" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Technologies and Skills
+## 👨🏻‍💻 About Me
 
-<div align="center">
+<img
+  align="right"
+  width="290"
+  src="https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8"
+  alt="Animated illustration of software development"
+/>
 
-<table>
-<tr>
-<td>
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" alt="CSS" />
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" alt="HTML" />
-</td>
-</td>
-</tr>
+I'm a **Junior Manufacturing Systems Analyst** at [Colgate-Palmolive](https://www.colgatepalmolive.com.br/), working at the intersection of **software development, automation, data and industrial systems**.
 
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" alt="TypeScript" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" alt="Python" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" alt="Java" />
-</td>
-</tr>
+I build applications, integrations, dashboards and intelligent automations that connect systems, reduce manual work and improve operational processes. I enjoy turning real challenges and new ideas into practical, scalable solutions.
 
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" alt="React" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30" alt="Next.js" />
-</td>
-</tr>
+- 🔭 Working with software, automation, data and industrial systems
+- 🤖 Exploring LLMs, AI agents and RAG
+- 🎓 Studying Systems Analysis and Development at USCS — expected July 2027
+- ⚡ Turning ideas into practical solutions
 
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="30" alt="NestJS" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" alt="Git" />
-</td>
-</tr>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" alt="MySQL" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="30" alt="SQL Server" />
-</td>
-</tr>
-</table>
-
-</td>
-
-<table>
-<!-- Coluna do GIF -->
-<td align="center">
-<img src="https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8" width="290" alt="Coding gif"/>
-</td>
-</tr>
-</table>
-
-</div>
-
+<br clear="right" />
 
 ---
 
-### 🎯 About Me
+## 🧠 Skills & Technologies
 
-</div>
-<div align="justify">
-<i><b>Hello</b> :wave:, My name is <code>Mateus Melo</code>, I'm 22 years old, I'm currently a <code>Manufacturing Systems Analyst</code> at <a href="https://www.colgatepalmolive.com.br/" target="_blank">Colgate-Palmolive</a>. :mortar_board: I have hands-on experience developing technology solutions, cybersecurity, systems analysis, and automation. :computer:💡. I’m constantly seeking to bridge the gap between technology and industry through practical and scalable solutions. :muscle:</i>
-</div>
+### Languages
 
-<br></br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs&amp;theme=dark&amp;perline=7" alt="JavaScript, TypeScript, Python, Java, C, C++ and C#" />
+  </a>
+</p>
 
-<div align="center">
- <p><strong>Contact me: </strong></p>
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<td><a href="https://github.com/mateusprogrid" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="30px" height="30px"/></a>
-</td>
-<td><a href="mailto:mateusmelo.info@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="30px" height="30px"/></a>
-</td>
-<td><a href="https://wa.me/5511993646970" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="30px" height="30px"/></a>
-</td>
-<td><a href="https://www.instagram.com/mateusprogrid" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="30px" height="30px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/mateus-melo-746818364" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="30px" height="30px"/></a>
-</td>
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>-->
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
- 
+### Web, Backend & Mobile
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,spring,tailwind,flask,django,dart,flutter&amp;theme=dark&amp;perline=10" alt="React, Next.js, Node.js, NestJS, Spring Boot, Tailwind CSS, Flask, Django, Dart and Flutter" />
+  </a>
+</p>
+
+### Data, Automation & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-011356?style=for-the-badge&amp;logo=mysql&amp;logoColor=16E6FF" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-011356?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=16E6FF" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Snowflake-011356?style=for-the-badge&amp;logo=snowflake&amp;logoColor=16E6FF" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Pandas-011356?style=for-the-badge&amp;logo=pandas&amp;logoColor=16E6FF" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Selenium-011356?style=for-the-badge&amp;logo=selenium&amp;logoColor=16E6FF" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-011356?style=for-the-badge&amp;logo=googleappsscript&amp;logoColor=16E6FF" alt="Google Apps Script" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SAP-011356?style=for-the-badge&amp;logo=sap&amp;logoColor=16E6FF" alt="SAP" />
+  <img src="https://img.shields.io/badge/DOMO-011356?style=for-the-badge&amp;logoColor=16E6FF" alt="DOMO" />
+  <img src="https://img.shields.io/badge/Power%20BI-011356?style=for-the-badge&amp;logo=powerbi&amp;logoColor=16E6FF" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Armis-011356?style=for-the-badge&amp;logoColor=16E6FF" alt="Armis" />
+  <img src="https://img.shields.io/badge/AVEVA-011356?style=for-the-badge&amp;logoColor=16E6FF" alt="AVEVA" />
+  <img src="https://img.shields.io/badge/Git-011356?style=for-the-badge&amp;logo=git&amp;logoColor=16E6FF" alt="Git" />
+</p>
+
 ---
 
-<div>
+## 📊 GitHub Statistics
 
-<strong>GitHub Stats: </strong>
-<br></br>
-<img height="35" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Top Langs" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateusprogrid&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Details" width="820px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateusprogrid&theme=github_dark"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Commits" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mateusprogrid&theme=github_dark&utcOffset=8"/>
-</td>
-<td>
-<img alt="GitHub Streak" width="820px" src="https://streak-stats.demolab.com?user=mateusprogrid&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr>
-</table>
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateusprogrid&amp;theme=github_dark&amp;animation=load"
+    alt="Mateus Melo's GitHub profile details"
+  />
+</p>
 
-<table>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://mateusprogrid.github.io/mateusprogrid/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://mateusprogrid.github.io/mateusprogrid/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://mateusprogrid.github.io/mateusprogrid/github-contribution-grid-snake.svg" />
-</picture>
-</table>
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateusprogrid&amp;theme=github_dark&amp;animation=load"
+    alt="Mateus Melo's GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateusprogrid&amp;theme=github_dark&amp;animation=load"
+    alt="Mateus Melo's repositories by language"
+  />
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mateusprogrid&amp;theme=github_dark&amp;utcOffset=-3&amp;animation=load"
+    alt="Mateus Melo's most productive commit time"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=mateusprogrid&amp;hide_border=true&amp;background=011356&amp;stroke=16E6FF&amp;ring=16E6FF&amp;fire=4801FF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=16E6FF&amp;sideLabels=16E6FF&amp;dates=94A3B8"
+    alt="Mateus Melo's GitHub contribution streak"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://mateusprogrid.github.io/mateusprogrid/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://mateusprogrid.github.io/mateusprogrid/github-contribution-grid-snake.svg"
+    />
+    <img
+      width="100%"
+      src="https://mateusprogrid.github.io/mateusprogrid/github-contribution-grid-snake.svg"
+      alt="Animated snake moving through Mateus Melo's GitHub contribution grid"
+    />
+  </picture>
+</p>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:011356,50:4801FF,100:16E6FF&amp;height=120&amp;section=footer"
+  alt=""
+/>
