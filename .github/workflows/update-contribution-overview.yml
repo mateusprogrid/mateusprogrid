@@ -1,0 +1,45 @@
+name: Update contribution activity overview
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-activity-overview
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate activity overview
+        run: node scripts/generate-contribution-overview.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: mateusprogrid
+
+      - name: Commit updated graphic
+        run: |
+          if git diff --quiet -- assets/contribution-activity-overview.svg; then
+            echo "No activity changes to publish."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-activity-overview.svg
+          git commit -m "chore: update contribution activity overview"
+          git push
